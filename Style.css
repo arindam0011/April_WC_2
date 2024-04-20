@@ -21,7 +21,7 @@ body{
 #st{
     font-size:30px;
     font-weight: 900;
-    margin-right: 1100px;
+    margin-right: 600px;
     
 }
 #up{
@@ -58,7 +58,7 @@ div#section{
  position:relative;
 }
 P{
-    width: 950px;
+    width: 625px;
     font-size: 28px;
     font-weight: 400;
     line-height: 34.13px;
@@ -67,15 +67,15 @@ P{
 }
 #all{
     background-color: black;
-    width: 1728px;
+    width: 1200px;
     margin: auto;
 }
 img{
-    width: 697px;
-    height: 600px;
+    width: 497px;
+    height: 400px;
     transform: rotateY(180deg);
     position: absolute;
-    top:30px;
+    top: 90px;
     right: 30px;
     margin-right: 20px;
     padding-left: 20px;
@@ -87,7 +87,7 @@ img{
     margin:30px;
 }
 #name,#email{
-    width: 1570px;
+    width: 95%;
     height: 70px;
     padding-left:30px;
     box-sizing: border-box;
@@ -105,7 +105,7 @@ input::placeholder {
     margin-right:90px;
 }
 #phn,#city{
-    width: 730px;
+    width: 43.5%;
     height: 70px;
     padding-left:30px;
     box-sizing: border-box;
@@ -146,7 +146,7 @@ table{
     font-weight: 400;
     line-height: 34.13px;
     text-align: left;
-    width: 1582px;
+    width: 95%;
     height: 755px;
 }
 .td1{
